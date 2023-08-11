@@ -4,6 +4,12 @@ Minimal `Flask Sample` provided by [DeployPRO](https://deploypro.dev/) service f
 
 <br />
 
+## Run in `Docker`
+
+@Todo - all steps here
+
+<br />
+
 ## Manual Build
 
 > Install modules via `VENV`  
