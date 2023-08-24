@@ -1,4 +1,4 @@
-# [DeployPRO Flask](https://www.docs.deploypro.dev/samples/deploypro-flask) `Free Sample`
+# [DeployPRO Flask](https://www.docs.deploypro.dev/samples/flask) `Free Sample`
 
 Minimal `Flask Sample` provided by [DeployPRO](https://deploypro.dev/) service for testing.
 
@@ -32,4 +32,4 @@ At this point, the app runs at `http://127.0.0.1:5000/`.
 <br />
 
 ---
-[Flask Starter](https://www.docs.deploypro.dev/samples/deploypro-flask) - Open-source sample provided by [DeployPRO](https://deploypro.dev/)
+[Flask Starter](https://www.docs.deploypro.dev/samples/flask) - Open-source sample provided by [DeployPRO](https://deploypro.dev/)
